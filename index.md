@@ -6,7 +6,7 @@ Welcome to Analysis 101. This course is designed to provide non-analysts an intr
 
 You can use the [editor on GitHub](https://github.com/mhoskin-dsc/test_pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-<a href="Analysis.md">Analysis page </a>
+<a href="Analysis">Analysis page </a>
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
